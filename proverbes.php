@@ -46,5 +46,5 @@ echo "</table>";
 	</article>
 	</section>
 	</main>
-	<footer> DevTec - 2018 - Tous droits réservés </footer>
+	<footer> DevTec - 2018 - proverbes bretons, bien sûr libres de droits</footer>
 </body>
